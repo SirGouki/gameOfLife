@@ -1,0 +1,1 @@
+﻿C:\Users\Gouki\source\repos\gameOfLife\gameOfLife\gameOfLife.vcxproj(66,5): error MSB4024: The imported project file "C:\projects\c++\default.props" could not be loaded. The 'ItemDefinitionGroup' start tag on line 51 position 4 does not match the end tag of 'Project'. Line 143, position 3.

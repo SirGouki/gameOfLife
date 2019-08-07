@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  gameOfLife.cpp
+c:\users\gouki\source\repos\gameoflife\gameoflife\gameoflife.cpp(299): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gouki\source\repos\gameoflife\gameoflife\gameoflife.cpp(301): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gouki\source\repos\gameoflife\gameoflife\gameoflife.cpp(304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gameOfLife.vcxproj -> C:\Users\Gouki\source\repos\gameOfLife\x64\Release\gameOfLife.exe

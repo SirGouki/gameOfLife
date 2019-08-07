@@ -1,0 +1,5 @@
+﻿  gameOfLife.cpp
+c:\users\gouki\source\repos\gameoflife\gameoflife\gameoflife.cpp(289): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gouki\source\repos\gameoflife\gameoflife\gameoflife.cpp(291): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gouki\source\repos\gameoflife\gameoflife\gameoflife.cpp(294): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  gameOfLife.vcxproj -> C:\Users\Gouki\source\repos\gameOfLife\x64\Debug\gameOfLife.exe
